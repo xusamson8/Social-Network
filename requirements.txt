@@ -1,0 +1,4 @@
+neo4j==5.19.0
+python-dotenv==1.0.1
+bcrypt==4.1.2
+prettytable==3.9.0 
